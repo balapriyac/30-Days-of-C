@@ -1,10 +1,9 @@
 # 30-Days-of-C
 A comprehensive learning path
 
-| Day # | Work Done |
-|-------|-----------|
-| Day 0 | Created GitHub repo; Set up the working environment|
-| Day 1 | |
+| Day # | What was Done | Topics Covered|
+|-------|---------------|---------------|
+| Day 1 | Basics of C | Data Types, Input \& Output, Comments, Operators|
 | Day 2 | |
 | Day 3 | |
 | Day 4 | |
