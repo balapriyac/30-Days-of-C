@@ -30,3 +30,15 @@ int main(int argc, char **argv)
 - Run program from the command prompt: ProgramName arg1 arg2 arg3 //args separated by space
 - `argc`: number of command-line arguments
 - `argv`: list of command-line args; more of an argument vector, or a pointer to an array of character-string arguments
+
+### Introducting `printf()` 
+```c
+puts("Print a simple string");
+printf("Print a formatted string");
+```
+- Format specifiers (%d, %s etc.) can be replaced with the corresponding values
+- These values are specified as a comma-delimited list of values in the `printf()` function
+
+```c
+printf("I have been coding in %s for %d years now\n", "C", 2);
+```
