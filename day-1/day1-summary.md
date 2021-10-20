@@ -42,3 +42,13 @@ printf("Print a formatted string");
 ```c
 printf("I have been coding in %s for %d years now\n", "C", 2);
 ```
+
+### Comments
+- Comment your code for better readability
+```c
+// This is a single-line comment
+
+/* This is a multi-line
+comment that spans 
+multiple lines */
+```
