@@ -21,3 +21,12 @@ int main()
 - **printf**: prints out the string of characters passed in as the argument
 - `;`: all C statements terminate in a semicolon
 - `return 0;`: the code returns `0` when execution is successful  
+
+### Command-line arguments in C
+
+```c
+int main(int argc, char **argv)
+```
+- Run program from the command prompt: ProgramName arg1 arg2 arg3 //args separated by space
+- `argc`: number of command-line arguments
+- `argv`: list of command-line args; more of an argument vector, or a pointer to an array of character-string arguments
