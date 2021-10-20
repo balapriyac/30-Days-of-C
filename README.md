@@ -5,7 +5,7 @@
 |-------|---------------|
 | Day 1 | Basics of C Programming|
 | Day 2 | Data Types, Variables, Constants|
-| Day 3 | |
+| Day 3 | Operators and Conditionals|
 | Day 4 | |
 | Day 5 | |
 | Day 6 | |
