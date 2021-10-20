@@ -1,5 +1,5 @@
 # 30-Days-of-C
-A comprehensive learning path
+>A comprehensive path for revision of fundamentals
 
 | Day # |  Topics Covered|
 |-------|---------------|
