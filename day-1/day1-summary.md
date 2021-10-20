@@ -1,6 +1,6 @@
 ## C Programming 101
 ```c
-#include<stdio.h>
+#include <stdio.h>
 
 int main()
 {
@@ -10,3 +10,14 @@ int main()
 
 ```
 ### Making sense of the construct
+
+- **#include**: preprocessor directive that causes the contents of stdio.h to be included
+- `< >` around stdio.h: look for this file in the *system* directory
+- **int**: return type of the function 
+- When you know that a function returns a value, the *type* of the value that it's expected to return precedes the function name
+- **main**: program execution starts from the main function
+- `()`: the main function here doesn't consume any arguments
+- `{}`: delimiters for a block of code
+- **printf**: prints out the string of characters passed in as the argument
+- `;`: all C statements terminate in a semicolon
+- `return 0;`: the code returns `0` when execution is successful  
