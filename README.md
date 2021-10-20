@@ -4,7 +4,7 @@ A comprehensive learning path
 | Day # |  Topics Covered|
 |-------|---------------|
 | Day 1 | Basics of C Programming|
-| Day 2 | |
+| Day 2 | Data Types, Variables, Constants|
 | Day 3 | |
 | Day 4 | |
 | Day 5 | |
