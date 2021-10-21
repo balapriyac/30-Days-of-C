@@ -41,6 +41,6 @@ int main()
 	printf("a-- : %d\n", a);
 
 
-	return(0);
+	return 0;
 }
 
