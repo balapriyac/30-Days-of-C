@@ -32,3 +32,18 @@ const int id = 204; //cannot re-define elsewhere
 ```
 - Using the `const` keyword renders `id` as a read-only variable, so you cannot modify it elsewhere in the program
 - And trying to do so will raise errors
+
+### Naming conventions
+- Names of constants are usually in upper case
+```c
+#define PI 3.14159
+```
+- Variable and function names should be descriptive
+```c
+float calc_total(float bill_amt, float tip_perc)
+{
+  float total;
+  total = bill_amt( 1 + tip_perc * 0.01);
+  return total;
+}
+```
