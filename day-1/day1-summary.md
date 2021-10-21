@@ -11,10 +11,10 @@ int main()
 ```
 ### Making sense of the construct
 
-- **#include**: preprocessor directive that causes the contents of stdio.h to be included
+- **#include**: preprocessor directive that causes the contents of stdio.h to be included.
 - `< >` around stdio.h: look for this file in the *system* directory
 - **int**: return type of the function 
-- When you know that a function returns a value, the *type* of the value that it's expected to return precedes the function name
+- When you know that a function returns a value, the *type* of the value that it's expected to return precedes the function name.
 - **main**: program execution starts from the main function
 - `()`: the main function here doesn't consume any arguments
 - `{}`: delimiters for a block of code
@@ -27,7 +27,7 @@ int main()
 ```c
 int main(int argc, char **argv)
 ```
-- Run program from the command prompt: ProgramName arg1 arg2 arg3 //args separated by space
+- Run program from the command prompt: `ProgramName arg1 arg2 arg3 //args separated by space`
 - `argc`: number of command-line arguments
 - `argv`: list of command-line args; more of an argument vector, or a pointer to an array of character-string arguments
 
@@ -36,13 +36,14 @@ int main(int argc, char **argv)
 puts("Print a simple string");
 printf("Print a formatted string");
 ```
-- Format specifiers (%d, %s etc.) can be replaced with the corresponding values
-- These values are specified as a comma-delimited list of values in the `printf()` function
+- Inside the `printf()` function, format specifiers (%d, %s etc.) can be replaced with the corresponding values.
+- These values are specified as a comma-delimited list of values in the `printf()` function.
 
 ```c
 printf("I have been coding in %s for %d years now\n", "C", 2);
 ```
-
+**Note**: 
+> Ensure that the *number* and *type of values*  in the comma-delimited list match the corresponding format specifiers inside the string.
 ### Comments
 - Comment your code for better readability
 ```c
