@@ -3,7 +3,7 @@
 
 | Day # |  Topics Covered| Summary|
 |-------|---------------|-------|
-| Day 1 | Basics of C Programming| Day 1 Notes|
+| Day 1 | [Basics of C Programming](https://github.com/balapriyac/30-Days-of-C/tree/main/day-1)| Day 1 Notes|
 | Day 2 | Data Types, Variables, Constants| Day 2 Notes|
 | Day 3 | Operators and Conditionals| Day 3 Notes|
 | Day 4 | ||
