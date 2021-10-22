@@ -67,7 +67,7 @@ if (x == 1) //checks if the value of x is equal to 1
 ### Logical Operators
 
 - Logical Operators test truth value of Booleans - True or False.
-- They help to cahin together conditions, or tests.
+- They help to chain together conditions, or tests.
 - C doesn't have a dedicated boolean data type - all non-zero values are considered True, and 0 is treated as False. 
 
 ```c
