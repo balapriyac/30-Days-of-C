@@ -115,5 +115,7 @@ fgets(<char_array>,<max_chars>,<input_source>);
 // It reads in a string of length (max_chars - 1)
 ```
 - Null terminated strings
+    - A null character `\0` marks the end of a string.
+    - Therefore a character array of size `k` can hold `k-1` characters, not including `\0`.
 - Are there any caveats yet?
 
