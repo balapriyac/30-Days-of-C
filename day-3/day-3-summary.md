@@ -118,4 +118,7 @@ fgets(<char_array>,<max_chars>,<input_source>);
     - A null character `\0` marks the end of a string.
     - Therefore a character array of size `k` can hold `k-1` characters, not including `\0`.
 - Are there any caveats yet?
+    - When you enter more characters than `<max_chars>`, you'll not be prompted for subsequent inputs.
+    - Rather, unprocessed characters from the previous input are read in from the buffer.
+    - To avoid this, you need to *flush* the input buffers before calling `fgets()` to read in the next input.
 
