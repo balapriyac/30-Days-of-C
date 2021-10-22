@@ -96,7 +96,7 @@ else
   }
 
 ```
-## Reading inputs
+## Reading string inputs
 - Why `gets()` isn't used anymore
     - In the example below, the user might as well enter a name that's longer than 10 characters.
     - However, `gets()` will assign *all* that the user enters to the variable `name`.
