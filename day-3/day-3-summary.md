@@ -20,6 +20,11 @@ a /= b  // is the same as: a = a / b
 - Increment and Decrement
 
 To add 1 to or subtract 1 from the value of a variable, we use `++` and `--` as well.
+```c
+int num = 10;
+num++; // adds 1 to num; num is now 11
+num--; //subtracts 1 from num; num is now 10
+```
 
 ### Operators for Comparison
 - Check Equality
