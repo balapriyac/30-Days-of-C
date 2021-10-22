@@ -81,6 +81,16 @@ else
 ```
 ## Reading inputs
 - Why `gets()` isn't used anymore
+    - In the example below, teh suer might as well enter a name that's longer than 10 characters.
+    - However, `gets()` will assign *all* that the user enters to the variable `name`.
+    - But `name` is declared to be an array of 10 characters.
+    - The remaining characters might end up in some part of the memory - unpredictable.
+    - And this can even possibly overwrite content on parts of memory that are currently used by another varaible.
+```c
+char name[10];
+gets(name);
+```
+
 - How does `fgets()` work?
 - Null terminated strings
 - Are there any caveats yet?
