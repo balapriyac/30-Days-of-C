@@ -109,6 +109,11 @@ gets(name);
 ```
 
 - How does `fgets()` work?
+```c
+fgets(<char_array>,<max_chars>,<input_source>);
+
+// It reads in a string of length (max_chars - 1)
+```
 - Null terminated strings
 - Are there any caveats yet?
 
