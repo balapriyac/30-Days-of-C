@@ -79,6 +79,8 @@ if ( condition1 ||  condition2)
     {
     // either condition1 OR condition2 should be True
     }
+    
+if (!(condition)) // ! - NOT - it negates a condition
 ```
 
 ### Conditionals 101
