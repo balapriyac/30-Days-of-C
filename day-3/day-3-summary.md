@@ -4,9 +4,22 @@ Operators: Special symbols that perform some operations on operands
 ```c
 int my_var = 27;
 ```
-The assignment operator `'='` assigns the value (27) on its right to the variable `my_var` on its left.
+    - The assignment operator `'='` assigns the value (27) on its right to the variable `my_var` on its left.
+    - The type of data assigned should match the data type of the variable.
 - Compound Assignment 
+
+```c
+a += b  // is the same as: a = a + b
+a -= b  // is the same as: a = a - b
+a *= b  // is the same as: a = a * b
+a /= b  // is the same as: a = a / b
+
+//performs the specified calculation on a, and then assigns the result of the calculation to a.
+
+```
 - Increment and Decrement
+
+To add 1 to or subtract 1 from the value of a variable, we use `++` and `--` as well.
 
 ### Operators for Comparison
 - Check Equality
