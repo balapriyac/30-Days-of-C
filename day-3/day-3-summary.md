@@ -25,6 +25,20 @@ int num = 10;
 num++; // adds 1 to num; num is now 11
 num--; //subtracts 1 from num; num is now 10
 ```
+- Pre and Post-Increment
+```c
+int a,b;
+
+a = 1;
+b = a++; // b is 1, a is 2
+
+// value of a is assigned to b, and then a is incremented by 1
+
+a = 1;
+b = ++a; // b is 2, a is 2
+
+// value of a is incremented by 1, and then is assigned to b
+```
 
 ### Operators for Comparison
 - Check Equality
