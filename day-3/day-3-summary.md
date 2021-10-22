@@ -98,7 +98,7 @@ else
 ```
 ## Reading inputs
 - Why `gets()` isn't used anymore
-    - In the example below, teh suer might as well enter a name that's longer than 10 characters.
+    - In the example below, the user might as well enter a name that's longer than 10 characters.
     - However, `gets()` will assign *all* that the user enters to the variable `name`.
     - But `name` is declared to be an array of 10 characters.
     - The remaining characters might end up in some part of the memory - unpredictable.
