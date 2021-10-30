@@ -39,5 +39,23 @@ int main()
 - Modifying `num` inside the function `add2()` does not alter the value of `num` in the `main()` function
 - It's the value of `num` that's passed to the `add2()` function
 
-
-
+### Switch Statement
+Switch statements can be good alternatives to long `if...else if..else` ladders.
+```c
+switch(test)
+{
+  case case1:
+    //do this
+    break;
+  case case2:
+    //do this
+    break;
+  case case3:
+    //do this
+    break;
+  :
+  :
+  :
+  default:
+    //do this
+}
