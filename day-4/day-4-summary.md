@@ -53,9 +53,9 @@ switch(test)
   case case3:
     //do this
     break;
-  :
-  :
-  :
+      :
+      :
+      :
   default:
     //do this
 }
