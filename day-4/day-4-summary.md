@@ -62,7 +62,7 @@ switch(test)
 ```
 
 Here, 
-- test: test statement, should be an integer or evaluating to an integer
+- `test`: test statement, should be an integer or evaluating to an integer
 - The test value is compared against the case values `case1`, `case2`, and so on
 - If a matching case is found, then the statements corresponding to that case are executed
 - To break out of the switch-case, `break;` statement is required
