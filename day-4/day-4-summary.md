@@ -59,6 +59,7 @@ switch(test)
   default:
     //do this
 }
+```
 
 Here, 
 - test: test statement, should be an integer or evaluating to an integer
