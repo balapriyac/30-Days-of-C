@@ -66,6 +66,6 @@ Here,
 - The test value is compared against the case values `case1`, `case2`, and so on
 - If a matching case is found, then the statements corresponding to that case are executed
 - To break out of the switch-case, `break;` statement is required
-- If you don't include it, the remaining test cases are also checked even if a match is found much earlier
-- The `default` case is executed when no matching case exists
+- If you don't include it, even if a match is found much earlier, the execution trickles down all the way until the next `break` statement appears!
+- The `default` case is executed only when no matching case exists, and is *optional*.
 
