@@ -8,7 +8,7 @@
 | Day 3 | [Operators, Conditionals, Reading in Strings](https://github.com/balapriyac/30-Days-of-C/tree/main/day-3)| [Day 3 Notes](https://github.com/balapriyac/30-Days-of-C/blob/main/day-3/day-3-summary.md)|
 | Day 4 |Functions, Loops, and Arrays | Day 4 Notes|
 | Day 5 | Strings in C | Day 5 Notes|
-| Day 6 | ||
+| Day 6 | Structures and Enum | Day 6 Notes|
 | Day 7 | ||
 | Day 8 | ||
 | Day 9 | ||
