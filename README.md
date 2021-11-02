@@ -9,7 +9,7 @@
 | Day 4 |Functions, Loops, and Arrays | Day 4 Notes|
 | Day 5 | Strings in C | Day 5 Notes|
 | Day 6 | Structures and Enum | Day 6 Notes|
-| Day 7 | ||
+| Day 7 | Variable Scope and Header Files| Day 7 Notes|
 | Day 8 | ||
 | Day 9 | ||
 | Day 10 |||
