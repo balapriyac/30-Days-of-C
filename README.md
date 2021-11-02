@@ -10,8 +10,8 @@
 | Day 5 | Strings in C | Day 5 Notes|
 | Day 6 | Structures and Enum | Day 6 Notes|
 | Day 7 | Variable Scope and Header Files| Day 7 Notes|
-| Day 8 |Working with Files |Day 8 Notes|
-| Day 9 | ||
+| Day 8 | Working with Files |Day 8 Notes|
+| Day 9 | Intro to Memory Allocation|Day 9 Notes|
 | Day 10 |||
 | Day 11 |||
 | Day 12 | ||
