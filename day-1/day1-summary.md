@@ -31,7 +31,7 @@ int main(int argc, char **argv)
 - `argc`: number of command-line arguments
 - `argv`: list of command-line args; more of an argument vector, or a pointer to an array of character-string arguments
 
-### Introducting `printf()` 
+### Introducing `printf()` 
 ```c
 puts("Print a simple string");
 printf("Print a formatted string");
