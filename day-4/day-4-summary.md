@@ -69,3 +69,26 @@ Here,
 - If you don't include it, even if a match is found much earlier, the execution trickles down all the way until the next `break` statement appears!
 - The `default` case is executed only when no matching case exists, and is *optional*.
 
+## Arrays
+- An array is a collection of items of the same data type.
+- To declare an array, use the syntax:
+
+```c
+<data_type> <array_name>[<num_items>];
+```
+- For an array of length `num_items`, the valid indices are 0,1,2,..., `num_items - 1`.
+- To initialize an array, you can use one of the following:
+```c
+int array1[3];
+array1[0] = 1;
+array1[1] = 2;
+array1[2] = 3;
+
+//OR
+
+int array1[3] = {1,2,3};
+
+//OR
+int array1[] = {1,2,3};
+
+```
