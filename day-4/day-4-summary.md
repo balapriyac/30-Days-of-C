@@ -104,11 +104,14 @@ char my_string[] = "String";
 // the null terminator '\0' is automatically appended
 
 ```
+## Multi-Dimensional Arrays
 
 ## `For` and `While` Loops
 
 
 ## Loop Control Statements
+
+
 
 
 
