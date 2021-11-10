@@ -56,6 +56,7 @@ To return a string from a function, set return type to `char *`.
 ```c
 
 char * this_func(params){
-    
+    //statements;
+    return <any_string>;
     }
 ```
