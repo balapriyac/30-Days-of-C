@@ -124,7 +124,8 @@ while(condition)
 ```
 ## Loop Control Statements
 
-
+- `continue`: helps skip those iterations for which a condition is met.
+- `break`: helps exit loops when a specific condition is met.
 
 
 
