@@ -105,6 +105,11 @@ char my_string[] = "String";
 
 ```
 ## Multi-Dimensional Arrays
+You can also create arrays with more than one dimension.
+```c
+// create a 2D array [matrix]
+int array1[3][3] = {{1,2,3},{4,5,6},{7,8,9}};
+```
 
 ## `For` and `While` Loops
 ```c
