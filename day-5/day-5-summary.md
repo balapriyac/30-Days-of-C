@@ -15,8 +15,22 @@ char my_string[] = "String";
 char str1[] = "string1";
 char *str2 = "string2";
 ```
-- The name `str1` is the address of the first char in the string `str1` - the starting location in the string.
+- The value of the array name `str1` is the address of the first char in the array `str1` - the starting location in the string.
 - However, `str2` is a pointer to an array of chars.
 - So it points to the starting address of the char array.
-Look at the following code:
 
+Look at the following code:
+```c
+#include <stdio.h>
+
+int main()
+{
+    char str1[] = "string1";
+    char *str2 = "string2";
+    
+    printf("%d %d %s \n",str1, &str1, str1);
+    printf("%d %d %s \n",str2, &str2, str2);
+
+    return 0;
+}
+```
