@@ -61,3 +61,14 @@ char * this_func(params){
     return <any_string>;
     }
 ```
+
+## String vs Char - Let's understand!
+
+## Declare strings on the heap
+
+## String Functions
+
+### Use header file `<string.h>`
+
+### Common String Functions
+
