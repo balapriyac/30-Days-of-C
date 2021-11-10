@@ -52,6 +52,7 @@ void func(char *anystring){
 
     }
 ```
+### Returning strings from functions
 To return a string from a function, set return type to `char *`.
 ```c
 
