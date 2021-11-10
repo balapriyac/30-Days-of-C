@@ -38,3 +38,6 @@ int main()
 - The value of `str2` is the address of the string - that is, the first char in the string.
 - The address of `str2` is a different memory location altogether.
 - Put simply, a pointer variable holds the address of, or points to another variable in memory.
+
+## Strings & Functions
+
