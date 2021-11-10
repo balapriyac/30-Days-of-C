@@ -71,4 +71,4 @@ char * this_func(params){
 ### Use header file `<string.h>`
 
 ### Common String Functions
-
+### Common Char Functions
