@@ -40,4 +40,15 @@ int main()
 - Put simply, a pointer variable holds the address of, or points to another variable in memory.
 
 ## Strings & Functions
+### Passing strings to functions
+```c
+void func(char anystring[]){
 
+    }
+    
+    //OR
+    
+void func(char *anystring){
+
+    }
+```
