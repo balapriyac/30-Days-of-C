@@ -107,8 +107,21 @@ char my_string[] = "String";
 ## Multi-Dimensional Arrays
 
 ## `For` and `While` Loops
+```c
+for(init; check_condition; update)
+  {
+    //do this
+  }
+```
 
-
+```c
+//init counter
+while(condition)
+  {
+    //do this
+    // update counter
+  }
+```
 ## Loop Control Statements
 
 
