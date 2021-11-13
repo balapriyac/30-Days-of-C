@@ -1,5 +1,5 @@
 # 👩🏽‍💻📋 30 Days of C
->A comprehensive path for revision of fundamentals
+>A comprehensive path for the revision of C fundamentals
 
 | Day # |  Topics Covered| Summary|
 |-------|---------------|-------|
