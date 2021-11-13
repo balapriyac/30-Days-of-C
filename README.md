@@ -18,11 +18,11 @@
 | Day 13 | Linked Lists and other Basic Data Structures - 1 |Day 13 Notes|
 | Day 14 | Linked Lists and other Basic Data Structures - 2 |Day 14 Notes|
 | Day 15 | Working with Pointers Carefully |Day 15 Notes|
-| Day 16 | ||
-| Day 17| ||
-| Day 18 | ||
-| Day 19 | ||
-| Day 20 |||
+| Day 16 | Arrays ADT - 1|Day 16 Notes|
+| Day 17|  Arrays ADT - 2 |Day 17 Notes|
+| Day 18 | Problems on Strings |Day 18 Notes|
+| Day 19 | Intro to Recursion |Day 19 Notes|
+| Day 20 | Some more Recursion|Day 20 Notes|
 | Day 21 |||
 | Day 22 |||
 | Day 23 |||
