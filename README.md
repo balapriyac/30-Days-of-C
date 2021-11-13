@@ -15,8 +15,8 @@
 | Day 10 | Intro to Pointers|Day 10 Notes|
 | Day 11 | Addresses and Indirection Explained - 1|Day 11 Notes|
 | Day 12 | Addresses and Indirection Explained - 2|Day 12 Notes|
-| Day 13 | ||
-| Day 14 | ||
+| Day 13 | Linked Lists and Basic Data Structures |Day 13 Notes|
+| Day 14 | Working with pointers carefully|Day 14 Notes|
 | Day 15 | ||
 | Day 16 | ||
 | Day 17| ||
