@@ -23,8 +23,8 @@
 | Day 18 | Problems on Strings |Day 18 Notes|
 | Day 19 | Intro to Recursion |Day 19 Notes|
 | Day 20 | Some more Recursion|Day 20 Notes|
-| Day 21 |||
-| Day 22 |||
+| Day 21 | Common Sorting Algos|Day 21 Notes|
+| Day 22 | Intro to Trees|Day 22 Notes|
 | Day 23 |||
 | Day 24 |||
 | Day 25 |||
