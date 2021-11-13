@@ -25,7 +25,7 @@
 | Day 20 | Some more Recursion|Day 20 Notes|
 | Day 21 | Common Sorting Algos|Day 21 Notes|
 | Day 22 | Intro to Trees|Day 22 Notes|
-| Day 23 |||
+| Day 23 | Binary Search Trees|Day 23 Notes|
 | Day 24 |||
 | Day 25 |||
 | Day 26 |||
