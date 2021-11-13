@@ -12,9 +12,9 @@
 | Day 7 | Variable Scope and Header Files| Day 7 Notes|
 | Day 8 | Working with Files |Day 8 Notes|
 | Day 9 | Intro to Memory Allocation|Day 9 Notes|
-| Day 10 |||
-| Day 11 |||
-| Day 12 | ||
+| Day 10 | Intro to Pointers|Day 10 Notes|
+| Day 11 | Addresses and Indirection Explained - 1|Day 11 Notes|
+| Day 12 | Addresses and Indirection Explained - 2|Day 12 Notes|
 | Day 13 | ||
 | Day 14 | ||
 | Day 15 | ||
