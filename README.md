@@ -31,7 +31,7 @@
 | Day 26 | Queues|Day 26 Notes|
 | Day 27 | Intro to Graphs|Day 27 Notes|
 | Day 28 | More on Graphs|Day 28 Notes|
-| Day 29 |||
+| Day 29 | AVL Trees|Day 29 Notes|
 | Day 30 |||
 
 
