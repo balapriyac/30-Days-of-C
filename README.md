@@ -29,8 +29,8 @@
 | Day 24 | Binary Search Trees|Day 24 Notes|
 | Day 25 | Stacks|Day 25 Notes|
 | Day 26 | Queues|Day 26 Notes|
-| Day 27 |||
-| Day 28 |||
+| Day 27 | Intro to Graphs|Day 27 Notes|
+| Day 28 | More on Graphs|Day 28 Notes|
 | Day 29 |||
 | Day 30 |||
 
