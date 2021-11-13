@@ -24,11 +24,11 @@
 | Day 19 | Intro to Recursion |Day 19 Notes|
 | Day 20 | Some more Recursion|Day 20 Notes|
 | Day 21 | Common Sorting Algos|Day 21 Notes|
-| Day 22 | Intro to Trees|Day 22 Notes|
-| Day 23 | Binary Search Trees|Day 23 Notes|
-| Day 24 |||
-| Day 25 |||
-| Day 26 |||
+| Day 22 | Intro to Trees - 1 |Day 22 Notes|
+| Day 23 | Intro to Trees - 2|Day 23 Notes|
+| Day 24 | Binary Search Trees|Day 24 Notes|
+| Day 25 | Stacks|Day 25 Notes|
+| Day 26 | Queues|Day 26 Notes|
 | Day 27 |||
 | Day 28 |||
 | Day 29 |||
