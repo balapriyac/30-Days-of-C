@@ -32,6 +32,6 @@
 | Day 27 | Intro to Graphs|Day 27 Notes|
 | Day 28 | More on Graphs|Day 28 Notes|
 | Day 29 | AVL Trees|Day 29 Notes|
-| Day 30 |||
+| Day 30 |Miscellaneous|Day 30 Notes|
 
 
