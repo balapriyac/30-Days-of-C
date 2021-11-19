@@ -7,7 +7,7 @@
 | Day 2 | [Data Types, Variables, Constants](https://github.com/balapriyac/30-Days-of-C/tree/main/day-2)| [Day 2 Notes](https://github.com/balapriyac/30-Days-of-C/blob/main/day-2/day-2-summary.md)|
 | Day 3 | [Operators, Conditionals, Reading in Strings](https://github.com/balapriyac/30-Days-of-C/tree/main/day-3)| [Day 3 Notes](https://github.com/balapriyac/30-Days-of-C/blob/main/day-3/day-3-summary.md)|
 | Day 4 |[Functions, Loops, and Arrays](https://github.com/balapriyac/30-Days-of-C/tree/main/day-4) | [Day 4 Notes](https://github.com/balapriyac/30-Days-of-C/blob/main/day-4/day-4-summary.md)|
-| Day 5 | [Strings in C](https://github.com/balapriyac/30-Days-of-C/tree/main/day-5) | Day 5 Notes|
+| Day 5 | [Strings in C](https://github.com/balapriyac/30-Days-of-C/tree/main/day-5) | [Day 5 Notes](https://github.com/balapriyac/30-Days-of-C/blob/main/day-5/day-5-summary.md)|
 | Day 6 | Structures and Enum | Day 6 Notes|
 | Day 7 | Variable Scope and Header Files| Day 7 Notes|
 | Day 8 | Working with Files |Day 8 Notes|
