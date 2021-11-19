@@ -63,6 +63,30 @@ char * this_func(params){
 ```
 
 ## String vs Char - Let's understand!
+```c
+if (isalpha('a'))  		
+    printf("True\n");
+	
+else 
+    printf("False\n");
+
+ 
+ //Output
+ True
+```
+
+```c
+if (isalpha("a")) 		
+    printf("True\n");
+
+else 
+    printf("False\n");
+    
+ 
+ //Output
+ False
+```
+
 
 ## Declare strings on the heap
 
