@@ -102,15 +102,15 @@ To use built-in functions on single characters, include the header file `ctype.h
 ### Common Char Functions
 |Function|Checks for|
 |----|----|
-|isalnum()| An alphabetic letter or a digit|
-|isalpha()| An alphabetic letter|
-|isblank()| A space or tab character|
-|iscntrl() |A control character|
-|isdigit() |A digit|
-|isgraph()| Any printing character except a space|
-|islower() |A lowercase letter|
-|isprint() |Any printing character including a space|
-|ispunct()| A printing character that is not a space or alphanumeric|
-|isspace()| A whitespace character ( ‘ ‘, ‘\n’, ‘\t’, ‘\v’, ‘\r’, ‘\f’)|
-|isupper()| An uppercase letter|
-|isxdigit()| A hexadecimal digit|
+|`isalnum()`| An alphabetic letter or a digit|
+|`isalpha()`| An alphabetic letter|
+|`isblank()`| A space or tab character|
+|`iscntrl()` |A control character|
+|`isdigit()` |A digit|
+|`isgraph()`| Any printing character except a space|
+|`islower()` |A lowercase letter|
+|`isprint()` |Any printing character including a space|
+|`ispunct()`| A printing character that is not a space or alphanumeric|
+|`isspace()`| A whitespace character ( ‘ ‘, ‘\n’, ‘\t’, ‘\v’, ‘\r’, ‘\f’)|
+|`isupper()`| An uppercase letter|
+|`isxdigit()`| A hexadecimal digit|
