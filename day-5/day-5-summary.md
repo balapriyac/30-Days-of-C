@@ -86,6 +86,17 @@ s = (char *)malloc(num_elts * sizeof(<dtype>))
 ## String Functions
 
 ### Use header file `<string.h>`
-
+To use built-in string functions, include the header file `string.h`
 ### Common String Functions
+|Function|Syntax|Description|
+|---|---|---|
+|`strlen()`|||
+|`strcat()`|||
+|`strncat()`|||
+|`strcpy()`|||
+|`strncpy()`|||
+|`strstr()`|||
+
+
+
 ### Common Char Functions
