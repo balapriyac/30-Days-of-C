@@ -1,4 +1,4 @@
-# 👩🏽‍💻📋 30 Days of C
+# 💻📋 30 Days of C
 >A comprehensive path for the revision of C fundamentals
 
 | Day # |  Topics Covered| Summary|
