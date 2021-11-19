@@ -100,9 +100,11 @@ To use built-in string functions, include the header file `string.h`
 ### Use header file `<ctype.h>`
 To use built-in functions on single characters, include the header file `ctype.h`
 ### Common Char Functions
-isalnum() An alphabetic letter or a digit
-isalpha() An alphabetic letter
-isblank() A space or tab character
+|Function|Checks for|
+|----|----|
+|isalnum()| An alphabetic letter or a digit|
+|isalpha()| An alphabetic letter|
+|isblank()| A space or tab character|
 iscntrl() A control character
 isdigit() A digit
 isgraph() Any printing character except a space
