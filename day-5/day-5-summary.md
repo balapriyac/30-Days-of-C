@@ -64,27 +64,11 @@ char * this_func(params){
 
 ## String vs Char - Let's understand!
 ```c
-if (isalpha('a'))  		
-    printf("True\n");
-	
-else 
-    printf("False\n");
+'a' // a single character
 
- 
- //Output
- True
-```
-
-```c
-if (isalpha("a")) 		
-    printf("True\n");
-
-else 
-    printf("False\n");
-    
- 
- //Output
- False
+"a" // a string literal 
+// Though "a" is a string that's one char long, 
+// it points to the beginning of an array of chars in memory
 ```
 
 
