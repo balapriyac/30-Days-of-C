@@ -90,10 +90,10 @@ To use built-in string functions, include the header file `string.h`
 ### Common String Functions
 |Function|Syntax|Description|
 |---|---|---|
-|`strlen()`|||
-|`strcat()`|||
-|`strncat()`|||
-|`strcpy()`|||
+|`strlen()`|`strlen(<str>)`|Returns length of `<str>`|
+|`strcat()`|`strcat(<to_this>,<add_this>)`|Concatenates 2 strings|
+|`strncat()`|`strcat(<to_this>,<add_this>,n)`|Concatenates `n` chars from `<add_this>` to `<to_this>`|
+|`strcpy()`|`strcpy(<dest>,<src>)`||
 |`strncpy()`|||
 |`strstr()`|||
 
