@@ -73,6 +73,15 @@ char * this_func(params){
 
 
 ## Declare strings on the heap
+- All local variables declared inside a function are allocated memory on the stack.
+- These variables are destroyed once you exit the function.
+- The `malloc()` function can be used to declare memory on the heap.
+- Unlike variables on the stack, the variables in heap exist even after you exit the function.
+
+```c
+s = (char *)malloc(num_chars) // as char takes up one byte, it suffices to specify num_chars only, else
+s = (char *)malloc(num_elts * sizeof(<dtype>))
+```
 
 ## String Functions
 
