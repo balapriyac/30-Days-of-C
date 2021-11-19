@@ -93,9 +93,11 @@ To use built-in string functions, include the header file `string.h`
 |`strlen()`|`strlen(<str>)`|Returns length of `<str>`|
 |`strcat()`|`strcat(<to_this>,<add_this>)`|Concatenates 2 strings|
 |`strncat()`|`strcat(<to_this>,<add_this>,n)`|Concatenates `n` chars from `<add_this>` to `<to_this>`|
-|`strcpy()`|`strcpy(<dest>,<src>)`||
-|`strncpy()`|||
-|`strstr()`|||
+|`strcpy()`|`strcpy(<dest>,<src>)`|Copies `<src>` str to `<dest>` str|
+|`strncpy()`|`strncpy(<dest>,<src>,n)`|Copies first `n` chars of `<src>` str to `<dest>` str|
+|`strstr()`|`strstr(this,pattern)`|Returns a ptr to the starting location of `pattern` if found|
+
+**Note**: When using string functions, ensure that the destination string has enough memory to hold the resultant.
 
 ### Use header file `<ctype.h>`
 To use built-in functions on single characters, include the header file `ctype.h`
