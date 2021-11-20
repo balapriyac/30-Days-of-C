@@ -52,3 +52,7 @@ Now, you can create variables of type `structName` using:
 ```c
 STRUCTNAME structVar;
 ```
+
+## Enum
+
+
