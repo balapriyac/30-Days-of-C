@@ -1,4 +1,5 @@
 ## User-Defined Data Types in C
+Structures in C can hold items of different data types.
 
 ### Structures [Struct]
 **Syntax**:
@@ -12,4 +13,25 @@ struct structName{
   dtypeN varN;
   };
 
+```
+- Use `struct` keyword, followed by the name of the structure `structName`.
+- Between teh set of curly braces `{}`, specify a semi-colon (`;`) delimited list of variables.
+- Remember to place a `;` after the closing `}`.
+
+**Creating a variable of `struct` data type**:
+```c
+struct structName structVar;
+```
+- `structVar` is a variable of the type `structName`.
+- However, notice that you cannot directly declare like this: `structName structVar;` - you must include the `struct` keyword.
+
+**Accessing the variables of `struct` data type**:
+```c
+structVar.var1;
+structVar.var2;
+  .
+  .
+  .
+structVar.varN;
+ 
 ```
