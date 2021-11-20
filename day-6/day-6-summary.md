@@ -1,3 +1,8 @@
+## Header Files in C
+
+### Header files and the C compiler - the process
+
+
 ## Scope of a Variable
 ### What is Scope of a Variable?
 
@@ -56,3 +61,9 @@ function2()
      
     }
 ```
+
+### Static Functions
+
+### Static Functions vs Static Variables
+
+
