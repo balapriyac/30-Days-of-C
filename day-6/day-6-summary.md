@@ -1,5 +1,15 @@
 ## Header Files in C
-
+Let's parse `#include <stdio.h>`
+- `#include` tells the compiler to make the contents of the file `stdio.h` available.
+- `<>` tells the compiler to search for this file in the location reserved for standard library files.
+- To include header files supplied as standard with the C compiler, use: 
+```c
+#include <fileName>
+```
+- To include header files from the current directory, or files within the current project, use:
+```c
+#include "fileName"
+```
 ### Header files and the C compiler - the process
 
 
