@@ -61,7 +61,7 @@ STRUCTNAME structVar;
 ```c
 enum week{Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday};
 
-enum week week1;
+enum week today;
 ```
 The values in `enum` are sometimes referred to as enumeration constants.
 
