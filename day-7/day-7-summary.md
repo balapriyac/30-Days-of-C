@@ -54,5 +54,14 @@ STRUCTNAME structVar;
 ```
 
 ## Enum
+- Sometimes, you'll need to work with a fixed set of related values - say, the 7 days of the week, movie ratings etc.
+- Instead of naming the days 0,1,2,..,6 it would help with code readability and come across as intuitive if we could use Sunday through Saturday instead.
+- Here's where `enum` comes in handy.
 
+```c
+enum week{Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday};
+
+enum week week1;
+```
+The values in `enum` are sometimes referred to as enumeration constants.
 
