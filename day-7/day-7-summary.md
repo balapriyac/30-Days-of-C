@@ -15,7 +15,7 @@ struct structName{
 
 ```
 - Use `struct` keyword, followed by the name of the structure `structName`.
-- Between teh set of curly braces `{}`, specify a semi-colon (`;`) delimited list of variables.
+- Between the set of curly braces `{}`, specify a semi-colon (`;`) delimited list of variables.
 - Remember to place a `;` after the closing `}`.
 
 **Creating a variable of `struct` data type**
@@ -36,7 +36,7 @@ structVar.varN;
  
 ```
 
-If you think of struct as a data record, then the variables denote the different field in the data record.
+If you think of struct as a data record, then the variables denote the different fields in the data record.
 
 ### Typedef
 
