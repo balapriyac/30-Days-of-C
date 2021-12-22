@@ -1,6 +1,6 @@
 ## Sorting Algos Checklist
 
-- [] Bubble Sort
+- [x] Bubble Sort
 - [] Insertion Sort
 - [] Selection Sort
 - [] Merge Sort
