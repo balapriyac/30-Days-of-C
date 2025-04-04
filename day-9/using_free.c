@@ -1,3 +1,7 @@
+// free(ptr) releases allocated memory.
+
+// Setting ptr = NULL prevents accessing freed memory (dangling pointer).
+
 #include <stdio.h>
 #include <stdlib.h>
 
