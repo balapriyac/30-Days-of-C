@@ -12,7 +12,7 @@
 | Day 7 | [Structures and Enum](https://github.com/balapriyac/30-Days-of-C/tree/main/day-7) | [Day 7 Notes](https://github.com/balapriyac/30-Days-of-C/blob/main/day-7/day-7-summary.md)|
 | Day 8 | [Working with Files](https://github.com/balapriyac/30-Days-of-C/tree/main/day-8) |[Day 8 Notes](https://github.com/balapriyac/30-Days-of-C/blob/main/day-8/day-8-summary.md)|
 | Day 9 | [Intro to Memory Allocation](https://github.com/balapriyac/30-Days-of-C/tree/main/day-9)|[Day 9 Notes](https://github.com/balapriyac/30-Days-of-C/blob/main/day-9/day-9-summary.md)|
-| Day 10 | Intro to Pointers|Day 10 Notes|
+| Day 10 | [Intro to Pointers](https://github.com/balapriyac/30-Days-of-C/tree/main/day-10)|[Day 10 Notes](https://github.com/balapriyac/30-Days-of-C/blob/main/day-10/day-10-summary.md)|
 | Day 11 | Addresses and Indirection Explained - 1|Day 11 Notes|
 | Day 12 | Addresses and Indirection Explained - 2|Day 12 Notes|
 | Day 13 | Linked Lists and other Basic Data Structures - 1 |Day 13 Notes|
