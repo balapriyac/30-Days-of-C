@@ -15,7 +15,7 @@
 | Day 10 | [Intro to Pointers](https://github.com/balapriyac/30-Days-of-C/tree/main/day-10)|[Day 10 Notes](https://github.com/balapriyac/30-Days-of-C/blob/main/day-10/day-10-summary.md)|
 | Day 11 | [Addresses and Indirection Explained - 1](https://github.com/balapriyac/30-Days-of-C/tree/main/day-11)|[Day 11 Notes](https://github.com/balapriyac/30-Days-of-C/blob/main/day-11/day-11-summary.md)|
 | Day 12 | [Addresses and Indirection Explained - 2](https://github.com/balapriyac/30-Days-of-C/tree/main/day-12)|[Day 12 Notes](https://github.com/balapriyac/30-Days-of-C/blob/main/day-12/day-12-summary.md)|
-| Day 13 | Linked Lists and other Basic Data Structures - 1 |Day 13 Notes|
+| Day 13 | [Linked Lists and other Basic Data Structures - 1](https://github.com/balapriyac/30-Days-of-C/tree/main/day-13) |[Day 13 Notes](https://github.com/balapriyac/30-Days-of-C/blob/main/day-13/day-13-summary.md)|
 | Day 14 | Linked Lists and other Basic Data Structures - 2 |Day 14 Notes|
 | Day 15 | Working with Pointers Carefully |Day 15 Notes|
 | Day 16 | Arrays ADT - 1|Day 16 Notes|
